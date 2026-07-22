@@ -20,3 +20,7 @@ change 18 - 1784150865
 change 19 - 1784150883
 change 20 - 1784150900
 pair work
+
+## Notes
+- Testing achievement criteria
+- Repo used for learning git workflows
