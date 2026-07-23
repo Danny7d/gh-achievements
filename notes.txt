@@ -28,3 +28,7 @@ pair work
 ## Notes
 - Testing achievement criteria
 - Repo used for learning git workflows
+
+## Tips
+- Keep commits focused on one change
+- Write clear PR descriptions for reviewers
